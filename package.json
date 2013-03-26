@@ -3,7 +3,7 @@
     "description" : "Wait for something to happen and then do it.",
     "homepage"    : "https://github.com/daxxog/async-waitfor",
     "main"        : "awf.js",
-    "version"     : "0.0.1",
+    "version"     : "0.0.2",
     "engines": { "node" : ">=0.4.0" },
     "maintainers": [{
         "name"  : "David Volm",

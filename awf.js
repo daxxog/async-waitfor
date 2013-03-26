@@ -55,7 +55,7 @@
         };
         
         if(typeof async == 'object') {
-            async.waitFor = _wf();
+            async.waitFor = _wf;
             
             return async;
         } else {
